@@ -1,101 +1,87 @@
-📄 Datenschutzerklärung – Privacy Policy
 🇩🇪 Datenschutzinformation
-1. Verantwortlicher:
+1. Verantwortlicher
 Diese App („SecLery – Secure Gallery“) wird entwickelt von:
 Fatih Aydik / purevibecoding
-E-Mail: [deine@email.de]
+E-Mail: support@purevibecoding.com
 
 2. Welche Daten werden verarbeitet?
 
-📷 Zugriff auf deine Fotos und Videos (lokal, nur mit deiner Berechtigung)
+📷 Fotos & Videos – Zugriff nur lokal auf deinem Gerät, ausschließlich nach deiner Berechtigung.
+🧠 Biometrische Daten – Nur zur Authentifizierung über die Sicherheitsfunktionen deines Geräts. Die App hat keinen Zugriff auf Fingerabdruck- oder Gesichtsdaten.
+⚙️ Geräte-Werbe-ID – Anonymisierte ID, ausschließlich zur Ausspielung von Werbung über Google AdMob.
+🔒 Keine Weitergabe – Es werden keine personenbezogenen Daten verkauft oder ohne deine Zustimmung an Dritte weitergegeben.
 
-🧠 Biometrische Daten (z. B. Fingerabdruck) zur Authentifizierung
+3. Zweck der Verarbeitung
 
-⚙️ Geräte-ID (anonymisiert, nur zur Schaltung von Werbung über Google AdMob)
-
-🔒 Keine Daten werden ohne dein Wissen an Dritte verkauft oder übertragen
-
-3. Zweck der Verarbeitung:
-
-Schutz deiner privaten Medien (z. B. durch verpixelte Vorschaubilder)
+Schutz deiner privaten Medien (z. B. verpixelte Vorschaubilder)
 
 Teilen-Funktion deiner Dateien (nach biometrischer Bestätigung)
 
-Werbeanzeige zur Unterstützung der kostenlosen Nutzung
+Anzeige von nicht-personalisierter Werbung zur Unterstützung der kostenlosen Nutzung
 
 4. Speicherung & Sicherheit
 
-Alle Medien bleiben lokal auf deinem Gerät
+Alle Medien bleiben ausschließlich lokal auf deinem Gerät
 
-Einstellungen (z. B. Pro-Version, Verpixelung) werden nur lokal gespeichert
+App-Einstellungen (z. B. Pro-Version, Verpixelung) werden nur lokal gespeichert
 
 Keine Cloud-Speicherung, keine Registrierung erforderlich
 
-5. Dritte Anbieter:
+5. Dritte Anbieter
 
-Google AdMob: Zur Einblendung nicht-personalisierter Werbung (Standard)
+Google AdMob – Zur Einblendung standardmäßig nicht-personalisierter Werbung.
+Datenschutzerklärung: https://policies.google.com/privacy
+Weitere Infos: https://support.google.com/admob/answer/6128543
 
-Datenschutzerklärung von Google
-
-PhotoManager / SharePlus: Zugriff & Teilen von Mediendateien
+PhotoManager / SharePlus – Zum lokalen Zugriff und Teilen von Mediendateien.
+Keine Datenübertragung an deren Server.
 
 6. Deine Rechte
 
 Du kannst die App jederzeit deinstallieren
 
-Berechtigungen kannst du jederzeit in den Geräteeinstellungen widerrufen
+Berechtigungen können jederzeit in den Geräteeinstellungen widerrufen werden
 
 🇺🇸 Privacy Policy
-1. Responsible entity:
+1. Responsible Entity
 This app ("SecLery – Secure Gallery") is developed by:
 Fatih Aydik / purevibecoding
 Email: [your@email.com]
 
-2. What data is collected?
+2. What Data Is Processed?
 
-📷 Access to your photos and videos (only locally, with your permission)
+📷 Photos & Videos – Access is local only, with your explicit permission.
+🧠 Biometric Data – Used only for authentication via your device’s security features. The app does not store or access fingerprint/face data.
+⚙️ Device Advertising ID – Anonymized, used solely for displaying ads via Google AdMob.
+🔒 No Sharing – No personal data is sold or shared with third parties without your consent.
 
-🧠 Biometric data (e.g. fingerprint) for authentication
+3. Purpose of Data Processing
 
-⚙️ Device ID (anonymized, only used for displaying ads via Google AdMob)
-
-🔒 No data is sold or shared with third parties without your consent
-
-3. Purpose of data processing:
-
-Protect your private media (e.g. blurred thumbnails)
+Protect your private media (e.g., blurred thumbnails)
 
 Enable file sharing (after biometric confirmation)
 
-Display ads to support the free use of the app
+Display non-personalized ads to support free app usage
 
 4. Storage & Security
 
-All media stays local on your device
+All media remains local on your device
 
-App settings (e.g. Pro version, blur toggle) are stored locally only
+App settings (e.g., Pro version, blur toggle) are stored locally only
 
-No cloud storage, no user account required
+No cloud storage, no account registration required
 
-5. Third-party services:
+5. Third-Party Services
 
-Google AdMob: For displaying non-personalized ads by default
+Google AdMob – For displaying non-personalized ads by default.
+Privacy Policy: https://policies.google.com/privacy
+More info: https://support.google.com/admob/answer/6128543
 
-Google Privacy Policy
-
-PhotoManager / SharePlus: Accessing and sharing media files
+PhotoManager / SharePlus – For accessing and sharing media files locally.
+No data is sent to their servers.
 
 6. Your Rights
 
 You can uninstall the app at any time
 
 Permissions can be revoked in your device settings
-
-🌐 Hosting-Empfehlung:
-Du kannst diese Erklärung z. B. hier veröffentlichen:
-
-GitHub Pages (kostenlos): Anleitung aufrufen
-
-Notion + Super.so
-
-dein Hosting/Webspace mit HTTPS
