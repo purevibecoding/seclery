@@ -1,87 +1,61 @@
-🇩🇪 Datenschutzinformation
-1. Verantwortlicher
-Diese App („SecLery – Secure Gallery“) wird entwickelt von:
-Fatih Aydik / purevibecoding
-E-Mail: support@purevibecoding.com
+Datenschutzerklärung / Privacy Policy
+SecLery – Secure Gallery (werbefreie Version / ad-free version)
+Stand / Last updated: November 2026
 
-2. Welche Daten werden verarbeitet?
+Deutsch
 
-📷 Fotos & Videos – Zugriff nur lokal auf deinem Gerät, ausschließlich nach deiner Berechtigung.
-🧠 Biometrische Daten – Nur zur Authentifizierung über die Sicherheitsfunktionen deines Geräts. Die App hat keinen Zugriff auf Fingerabdruck- oder Gesichtsdaten.
-⚙️ Geräte-Werbe-ID – Anonymisierte ID, ausschließlich zur Ausspielung von Werbung über Google AdMob.
-🔒 Keine Weitergabe – Es werden keine personenbezogenen Daten verkauft oder ohne deine Zustimmung an Dritte weitergegeben.
+1. Verantwortlicher und Kontakt
+Fatih Aydik (purevibecoding), Bachstraße 7, 50389 Wesseling, Deutschland.
+Datenschutz und Support: support@purevibecoding.com
 
-3. Zweck der Verarbeitung
+2. Fotos und Videos
+SecLery greift nach deiner Freigabe auf Fotos, Videos und zugehörige Informationen zu, etwa auf das Aufnahmedatum für die Datumsanzeige und den Jahresfilter. Der Umfang des Zugriffs richtet sich nach deiner Freigabe im Betriebssystem. In den Geräteeinstellungen kannst du die Berechtigung ändern oder entziehen. SecLery lädt deine Medien nicht auf Server des Anbieters hoch. Wenn iCloud-Fotos aktiv ist, kann die Apple-Fotomediathek Medien aus iCloud auf das Gerät nachladen. Das ist eine Funktion deiner Apple-Fotomediathek, keine Cloud-Speicherung durch SecLery.
 
-Schutz deiner privaten Medien (z. B. verpixelte Vorschaubilder)
+3. Authentifizierung und Vorschaubilder
+App-Funktionen wie das Entsperren von Vorschaubildern, das Verlassen der geschützten Ansicht und das Teilen können eine Bestätigung über die Sicherheitsfunktionen des Geräts verlangen. Je nach Gerät und Einrichtung erfolgt diese per Fingerabdruck, Gesichtserkennung oder Gerätecode. Das Betriebssystem prüft die Authentifizierung. SecLery erhält das Ergebnis, aber keine biometrischen Vorlagen und keinen Gerätecode. Die Freigabe der Vorschaubilder gilt nur für die laufende App-Sitzung.
 
-Teilen-Funktion deiner Dateien (nach biometrischer Bestätigung)
+4. Teilen und lokale Dateien
+Wenn du Dateien teilst, übergibt SecLery sie an das Teilen-Menü des Betriebssystems. Du entscheidest, an welche App, welchen Dienst oder welche Person du sie weitergibst. Danach gelten die Datenschutzhinweise des gewählten Ziels. Beim Anzeigen oder Teilen können lokale Cache-Dateien oder temporäre Dateikopien entstehen. Diese werden von der App nicht auf Server des Anbieters übertragen. Lokale App-Daten kannst du nach den Möglichkeiten deines Geräts über die Einstellungen oder durch vollständiges Deinstallieren der App entfernen. Dateien in der Fotomediathek und bereits geteilte Kopien werden dadurch nicht gelöscht.
 
-Anzeige von nicht-personalisierter Werbung zur Unterstützung der kostenlosen Nutzung
+5. Werbung, Tracking und externe Links
+Diese Version enthält keine Werbung und verwendet keine Werbe-ID, kein App-Tracking und keine Nutzungsanalyse durch die App. Ein Konto ist nicht erforderlich. Wenn du einen Rechtstext öffnest, wird die externe Webseite im Browser aufgerufen. Dabei kann GitHub unter anderem die IP-Adresse und technische Zugriffsdaten verarbeiten. SecLery übergibt beim Öffnen dieser Links keine Fotos oder Videos.
+Datenschutzerklärung von GitHub: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
-4. Speicherung & Sicherheit
+6. E-Mail-Anfragen
+Wenn du dem Anbieter schreibst, verarbeitet er deine E-Mail-Adresse, den Inhalt der Nachricht und gegebenenfalls freiwillig übersandte Anhänge zur Bearbeitung deiner Anfrage. Sende keine privaten Medien oder anderen sensiblen Informationen, wenn sie für dein Anliegen nicht nötig sind. Soweit es um einen Vertrag oder dessen Anbahnung geht, ist Art. 6 Abs. 1 Buchst. b DSGVO die Rechtsgrundlage; bei allgemeinen Anfragen ist es Art. 6 Abs. 1 Buchst. f DSGVO. Das berechtigte Interesse ist die Beantwortung und Dokumentation der Anfrage. Anfragen werden gelöscht, sobald ihre Speicherung dafür nicht mehr erforderlich ist, es sei denn, gesetzliche Aufbewahrungspflichten oder die Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erfordern eine weitere Aufbewahrung.
 
-Alle Medien bleiben ausschließlich lokal auf deinem Gerät
+7. Deine Rechte
+Unter den gesetzlichen Voraussetzungen hast du Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Datenübertragbarkeit. Soweit die Verarbeitung auf einem berechtigten Interesse beruht, kannst du aus Gründen, die sich aus deiner besonderen Situation ergeben, Widerspruch einlegen. Eine erteilte Einwilligung kannst du mit Wirkung für die Zukunft widerrufen. Für deine Rechte kannst du die oben genannte E-Mail-Adresse nutzen. Du kannst dich außerdem bei einer Datenschutzaufsichtsbehörde beschweren, etwa bei der Landesbeauftragten für Datenschutz und Informationsfreiheit Nordrhein-Westfalen: https://www.ldi.nrw.de/kontakt/ihre-beschwerde
 
-App-Einstellungen (z. B. Pro-Version, Verpixelung) werden nur lokal gespeichert
+8. Ältere Versionen
+Diese Erklärung gilt für die werbefreie Version. Für ältere Versionen, die Werbung enthielten, ist die frühere Erklärung hier archiviert:
+https://github.com/purevibecoding/seclery/blob/dff3529a4aa750374412258be8e4a68de4ca9bc4/privacy
 
-Keine Cloud-Speicherung, keine Registrierung erforderlich
+English
 
-5. Dritte Anbieter
+1. Controller and contact
+Fatih Aydik (purevibecoding), Bacstraße 7, 50389 Wesseling, Germany.
+Privacy and support: support@purevibecoding.com
 
-Google AdMob – Zur Einblendung standardmäßig nicht-personalisierter Werbung.
-Datenschutzerklärung: https://policies.google.com/privacy
-Weitere Infos: https://support.google.com/admob/answer/6128543
+2. Photos and videos
+With your permission, SecLery accesses photos, videos and related information, such as capture dates shown in the gallery and used to filter by year. Access is limited to what you permit in your device settings. You can change or revoke access there. SecLery does not upload your media to the provider's servers. If iCloud Photos is enabled, Apple's photo library may download media from iCloud to your device. This is part of Apple's photo library service, not cloud storage operated by SecLery.
 
-PhotoManager / SharePlus – Zum lokalen Zugriff und Teilen von Mediendateien.
-Keine Datenübertragung an deren Server.
+3. Authentication and previews
+Features such as revealing previews, leaving protected viewing or sharing media may require confirmation through your device's security features. Depending on your device and settings, this can use a fingerprint, facial recognition or a device passcode. The operating system verifies your identity. SecLery receives the result, not your biometric templates or passcode. Unlocked previews stay unlocked only for the current app session unless you lock them again.
 
-6. Deine Rechte
+4. Sharing and local files
+When you share files, SecLery hands them to the system share menu. You choose the destination app, service or recipient. Its privacy information then applies to its handling of the files. Viewing or sharing may create local cache files or temporary copies. SecLery does not transfer these files to the provider's servers. You can remove local app data through device settings where supported or by fully uninstalling the app. This does not delete items in your photo library or copies that you have already shared.
 
-Du kannst die App jederzeit deinstallieren
+5. Advertising, tracking and external links
+This version contains no ads and uses no advertising ID, app tracking or in-app usage analytics. No account is required. Opening a legal link takes you to an external webpage in your browser. GitHub may process information such as your IP address and technical access data. SecLery does not pass photos or videos when opening these links.
+GitHub Privacy Statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
-Berechtigungen können jederzeit in den Geräteeinstellungen widerrufen werden
+6. Email enquiries
+If you contact the provider, they process your email address, message and any attachments you choose to send in order to handle the enquiry. Please do not send private media or other sensitive information unless it is needed for your request. Article 6(1)(b) GDPR applies to enquiries about entering into or performing a contract. Article 6(1)(f) GDPR applies to general enquiries. The legitimate interest is responding to and documenting your enquiry. Enquiries are deleted once no longer needed for that purpose unless statutory retention requirements or the establishment, exercise or defence of legal claims require further retention.
 
-🇺🇸 Privacy Policy
-1. Responsible Entity
-This app ("SecLery – Secure Gallery") is developed by:
-Fatih Aydik / purevibecoding
-Email: support@purevibecoding.com
+7. Your rights
+Subject to the applicable legal conditions, you have rights of access, rectification, erasure, restriction of processing and data portability. Where processing is based on legitimate interests, you may object on grounds relating to your particular situation. You may withdraw any consent you gave with effect for the future. Use the email address above to exercise your rights. You may also lodge a complaint with a data protection authority, such as the State Commissioner for Data Protection and Freedom of Information for North Rhine-Westphalia: https://www.ldi.nrw.de/kontakt/ihre-beschwerde
 
-2. What Data Is Processed?
-
-📷 Photos & Videos – Access is local only, with your explicit permission.
-🧠 Biometric Data – Used only for authentication via your device’s security features. The app does not store or access fingerprint/face data.
-⚙️ Device Advertising ID – Anonymized, used solely for displaying ads via Google AdMob.
-🔒 No Sharing – No personal data is sold or shared with third parties without your consent.
-
-3. Purpose of Data Processing
-
-Protect your private media (e.g., blurred thumbnails)
-
-Enable file sharing (after biometric confirmation)
-
-Display non-personalized ads to support free app usage
-
-4. Storage & Security
-
-All media remains local on your device
-
-App settings (e.g., Pro version, blur toggle) are stored locally only
-
-No cloud storage, no account registration required
-
-5. Third-Party Services
-
-Google AdMob – For displaying non-personalized ads by default.
-Privacy Policy: https://policies.google.com/privacy
-More info: https://support.google.com/admob/answer/6128543
-
-PhotoManager / SharePlus – For accessing and sharing media files locally.
-No data is sent to their servers.
-
-6. Your Rights
-
-You can uninstall the app at any time
-
-Permissions can be revoked in your device settings
+8. Older versions
+This policy applies to the ad-free version. For older versions that contained ads, the previous policy is archived here:
+https://github.com/purevibecoding/seclery/blob/dff3529a4aa750374412258be8e4a68de4ca9bc4/privacy
